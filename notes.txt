@@ -1,0 +1,10 @@
+We've plotted graphs and basic analysis techniques could be used to analyse and predict most (6 outof the 8) graphs.
+For GDP Growth Rate Annual and GDP Per Capita Growth Rate annual, special algorithms have to be used.
+
+Inferences:
+1. Every graph except Annual Growth Rates (GDP and GDP Per Capita) are shown to be increasing in nature
+2. Even if we consider Annual Growth Rate graphs, if we were to plot a single line through the average expected trend, we get an increasing line
+	The current scenario could result in a drop in the growth rate, but the average line shows that it could increase and the mean growth rate could keep on increasing over the years
+	Hopeful future
+	
+Predictions from the graphs
