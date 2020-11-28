@@ -8,3 +8,9 @@ Inferences:
 	Hopeful future
 	
 Predictions from the graphs
+
+
+
+Stuff to modify:
+ - Y-label and Title in graphs
+ - 
